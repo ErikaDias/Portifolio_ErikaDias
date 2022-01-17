@@ -1,0 +1,36 @@
+.navbar-container p{
+    text-align: center;
+}
+
+.dev-tech-left {
+    font-size: 3em;
+}
+
+.dev-tech-right {
+    font-size: 1.2em;
+}
+
+.about-paragraph {
+    padding: 0 20px;
+}
+
+.skill{
+    height: 90vh;
+}
+
+.skill-image {
+    width: 70vw; 
+}
+
+.projects-cards{
+    grid-template-columns: 1fr;
+}
+
+.projects-cards .cards:nth-child(2) {
+    margin: 15px 0;
+}
+   
+.footer {
+    flex-direction: column;
+    justify-content: space-around;
+}
