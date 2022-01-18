@@ -5,7 +5,7 @@
 <p align="center">Portifólio criado com intuido de mostrar meus conhecimentos e projetos.</p>
 
 <p align="center">
-<a align="center" href=""> :link: Visite meu portifólio</a>
+<a align="center" href="https://erikadias.vercel.app/" target="_blank" rel="noopener noreferrer"> :link: Visite meu portifólio</a>
 </p>
 
 # :hammer_and_wrench: Tecnologias
